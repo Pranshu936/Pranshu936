@@ -11,8 +11,11 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
 - 👯 I’m looking to collaborate on [Project or Type of Collaboration]
 - 🤔 I’m looking for help with [Area Where You Need Help]
 - 💬 Ask me about JAVA, PYTHON and C
-- 📫 How to reach me: [93.6pranshukumar@gmail.com][mailto:93.6pranshukumar@gmail.com]
-- ⚡ Fun fact: [Something Interesting About You]
+- 📫 How to reach me: [93.6pranshukumar@gmail.com]
+- ⚡ Fun fact:
+  
+  ![hqdefault](https://github.com/user-attachments/assets/7430f6c9-e1fc-4d3f-921c-f025cd48eb4b)
+
 
 <!--
 ## My Skills
@@ -31,11 +34,11 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranshu936&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu936&layout=compact&theme=radical)
 
 <!--
 ## Projects
