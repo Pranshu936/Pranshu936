@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project]
+
 - 🌱 I’m currently learning **JAVA**
-- 👯 I’m looking to collaborate on [Project or Type of Collaboration]
-- 🤔 I’m looking for help with [Area Where You Need Help]
+- 👯 I’m looking to collaborate on Projects on Data Science. 
+- 🤔 I’m looking for help with Spring Boot.
 - 💬 Ask me about JAVA, PYTHON and C
 - 📫 How to reach me: [93.6pranshukumar@gmail.com]
 - ⚡ Fun fact:
@@ -18,20 +18,39 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
   ![hqdefault](https://github.com/user-attachments/assets/7430f6c9-e1fc-4d3f-921c-f025cd48eb4b)
 
 
-<!--
+
 ## My Skills
 
 ### Languages
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <span style="margin-right: 20px"></span> <!-- Adjust margin as needed -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <span style="margin-right: 20px"></span>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <span style="margin-right: 20px"></span>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <span style="margin-right: 20px"></span>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <span style="margin-right: 20px"></span>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
-### Frameworks and Tools
 
-- ![React](https://img.shields.io/badge/-React-000?&logo=React)
-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) -->
+
 
 ## GitHub Stats
 
