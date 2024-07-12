@@ -1,6 +1,7 @@
-# Hi there, I'm Pranshu Kumar 👋
 
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+
+![Profile Banner](https://github.com/user-attachments/assets/22a77003-7c36-4e30-ba02-9a5b586fccc7)
+
 
 Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Python, Data Science, and much more...
 
