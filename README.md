@@ -56,7 +56,7 @@ A brief description of what this project does and its purpose.
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/pranshu-kumar-741275264/))
-- [Twitter]([https://twitter.com/your-username](https://x.com/Pranshukum30487))
-- [Instagram]([https://www.instagram.com/pranshukumar_07/])
+- [LinkedIn](https://www.linkedin.com/in/pranshu-kumar-741275264/)
+- [Twitter](https://x.com/Pranshukum30487)
+- [Instagram](https://www.instagram.com/pranshukumar_07/)
 
