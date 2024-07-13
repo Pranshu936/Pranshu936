@@ -79,3 +79,6 @@ A brief description of what this project does and its purpose.
 - [Twitter](https://x.com/Pranshukum30487)
 - [Instagram](https://www.instagram.com/pranshukumar_07/)
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
