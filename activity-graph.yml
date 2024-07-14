@@ -20,7 +20,7 @@ jobs:
       - name: Generate Activity Graph
         run: |
           npm install -g @ashutosh00710/github-readme-activity-graph
-          generate-activity-graph --username yourusername --output ./images/activity-graph.svg
+          generate-activity-graph --username Pranshu936 --output ./images/activity-graph.svg
 
       - name: Commit & Push
         run: |
