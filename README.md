@@ -5,6 +5,7 @@
 
 Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Python, Data Science, and much more...
 
+
 ## About Me
 
 
@@ -56,9 +57,13 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranshu936&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranshu936&theme=radical)
+
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu936&layout=compact&theme=radical)
+
+
 
 <!--
 ## Projects
@@ -72,6 +77,13 @@ A brief description of what this project does and its purpose.
 ### [Project 3](https://github.com/your-username/project-3)
 A brief description of what this project does and its purpose.
 -->
+
+![Activity Graph](./images/activity-graph.svg)
+
+
+
+## Somethimg Interesting!
+![Joke](https://readme-jokes.vercel.app/api)
 
 ## Connect with Me
 
