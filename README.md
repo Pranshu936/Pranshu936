@@ -78,7 +78,7 @@ A brief description of what this project does and its purpose.
 A brief description of what this project does and its purpose.
 -->
 
-![Activity Graph](./images/activity-graph.svg)
+
 
 
 
