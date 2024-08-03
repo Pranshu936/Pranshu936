@@ -1,6 +1,7 @@
 
 
-![Profile Banner](https://github.com/user-attachments/assets/22a77003-7c36-4e30-ba02-9a5b586fccc7)
+![Profile Banner](https://github.com/user-attachments/assets/561cc538-1d4b-47bd-8287-d1b479981a27)
+
 
 
 Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Python, Data Science, and much more...
