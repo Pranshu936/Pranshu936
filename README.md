@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
 ## My Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,java,js,cpp,c,bootstrap,sklearn,replit,py,opencv,mysql,mongodb,github,git,cmake,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,java,cpp,c,bootstrap,sklearn,replit,py,opencv,mysql,mongodb,github,git,cmake,vercel)](https://skillicons.dev)
 
 
 
