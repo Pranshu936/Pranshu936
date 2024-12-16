@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranshu936&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranshu936&theme=radical)
+
 
 ## Top Languages
 
