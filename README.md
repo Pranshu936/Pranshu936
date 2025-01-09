@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
 ## My Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,java,cpp,c,bootstrap,sklearn,replit,py,opencv,mysql,mongodb,github,git,cmake,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,java,cpp,c,bootstrap,sklearn,replit,py,opencv,mysql,mongodb,github,git,cmake,vercel,flask)](https://skillicons.dev)
 
 
 
@@ -64,9 +64,8 @@ A brief description of what this project does and its purpose.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pranshu-kumar-741275264/)
-- [Twitter](https://x.com/Pranshukum30487)
-- [Instagram](https://www.instagram.com/pranshukumar_07/)
+ [![Linkedln](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranshu-kumar-741275264/)   [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Pranshukum30487)
+ [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pranshukumar_07/)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
