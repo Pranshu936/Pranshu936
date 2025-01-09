@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student passionate about Java, Py
 ## About Me
 
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **PYTHON**
 - 👯 I’m looking to collaborate on Projects on Data Science. 
 - 🤔 I’m looking for help with Spring Boot.
 - 💬 Ask me about JAVA, PYTHON and C
