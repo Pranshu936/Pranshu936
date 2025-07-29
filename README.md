@@ -1,6 +1,6 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://ashdude1401.github.io/My-Portfolio-of-failures/)
 
 
-![Profile Banner](https://github.com/user-attachments/assets/561cc538-1d4b-47bd-8287-d1b479981a27)
 
 
 
